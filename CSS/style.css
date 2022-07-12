@@ -1,0 +1,19 @@
+body {
+  background-color: skyblue;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  brodercolor: grey;
+  border-width: 3px;
+  height: 0px;
+  width: 20px
+}
+h1{
+  color: blue;
+}
+h3{
+  color: blue;
+}
